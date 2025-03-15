@@ -30,6 +30,10 @@ Dengan latar belakang di bidang Matematika, saya memiliki ketertarikan dalam men
 **Deskripsi:** Proyek ini menganalisis data dummy penjualan berdasarkan berbagai faktor seperti kota, kategori produk, dan tren penjualan per bulan dengan menggunakan SQL.
 [Lihat Proyek](https://www.db-fiddle.com/f/qdJQzy3P72pqQVp4iWWWXp/1)
 
+## **Visualisasi Data Penjualan Menggunakan Tableau**
+**Deskripsi: Proyek ini memvisualisasikan data dummy penjualan meliputi visualisasi total penjualan berdasarkan kategori produk, penjualan berdasarkan kota mengunakan map visualization, penjualan per bulan, penjualan per produk, penjualan per kota dan kategori produk menggunakan Tableau.
+[Lihat Proyek](https://public.tableau.com/views/VisualisasiDataPenjualan_17420678955920/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 ---
 
