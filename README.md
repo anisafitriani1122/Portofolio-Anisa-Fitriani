@@ -36,10 +36,10 @@ Dengan latar belakang di bidang Matematika, saya memiliki ketertarikan dalam men
 
 ## Statistik GitHub
 
-![Statistik GitHub Anisa](https://github-readme-stats.vercel.app/api?username=anisa-fitriani&show_icons=true&theme=tokyonight)
+![Statistik GitHub Anisa](https://github-readme-stats.vercel.app/api?username=anisafitriani1122&show_icons=true&theme=tokyonight)
 
 ---
 
 ## Hubungi Saya
-📧 **Email:** anisa.fitriani@email.com  
-🔗 **LinkedIn:** [linkedin.com/in/anisa-fitriani](https://linkedin.com/in/anisa-fitriani)
+📧 **Email:** afitriani1122@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/anisa-fitriani](https://linkedin.com/in/anisa-fitriani-12932428a)
