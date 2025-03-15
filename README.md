@@ -12,7 +12,7 @@ Dengan latar belakang di bidang Matematika, saya memiliki ketertarikan dalam men
 
 ### **Analisis dan Prediksi Grafik Iklim**
 **Deskripsi:** Mengidentifikasi pola perubahan iklim berdasarkan data permukaan laut dari periode Pleistosen hingga Holosen menggunakan **Regresi Sinusoidal** dan **LSTM**.  
-[Lihat Proyek](https://github.com/username/proyek-iklim)
+[Lihat Proyek](https://github.com/anisafitriani1122/Tugas-Akhir)
 
 ### **Pemetaan Produktivitas Perkebunan Nanas**
 **Deskripsi:** Menggunakan **K-Means Clustering** untuk memahami distribusi produktivitas di PT Great Giant Pineapple guna mengoptimalkan pengelolaan wilayah perkebunan.  
