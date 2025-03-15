@@ -14,12 +14,12 @@ Dengan latar belakang di bidang Matematika, saya memiliki ketertarikan dalam men
 **Deskripsi:** Mengidentifikasi pola perubahan iklim berdasarkan data permukaan laut dari periode Pleistosen hingga Holosen menggunakan **Regresi Sinusoidal** dan **LSTM**.  
 [Lihat Proyek](https://github.com/username/proyek-iklim)
 
-### **Pemetaan Produktivitas Perkebunan**
+### **Pemetaan Produktivitas Perkebunan Nanas**
 **Deskripsi:** Menggunakan **K-Means Clustering** untuk memahami distribusi produktivitas di PT Great Giant Pineapple guna mengoptimalkan pengelolaan wilayah perkebunan.  
 [Lihat Proyek](https://github.com/username/proyek-nanas)
 
-### **Analisis Data Penjualan Retail**
-**Deskripsi:** Mengeksplorasi tren penjualan dan pola perilaku konsumen melalui pembersihan dan analisis dataset menggunakan **Pandas, Matplotlib, dan Seaborn**.  
+### ** Klasifikasi Penyakit Maag dan Klasterisasi Daerah Pertanian Padi di Lampung **
+**Deskripsi:** Proyek ini bertujuan untuk mengklasifikasikan penyakit maag berdasarkan gejala yang dialami pasien menggunakan metode **Decision Tree** dan **K-Nearest Neighbor**. Dengan model ini, sistem dapat memberikan prediksi awal yang membantu tenaga medis dalam proses diagnosis dan pengambilan keputusan klinis. Kemudian, pada proyek ini juga bertujuan untuk mengelompokkan daerah pertanian padi di Provinsi Lampung berdasarkan faktor-faktor seperti luas lahan, produksi padi menggunakan metode **K-Means Clustering**. Analisis ini membantu dalam memahami pola pertanian dan mendukung pengambilan keputusan untuk peningkatan hasil produksi.  
 [Lihat Proyek](https://github.com/username/proyek-retail)
 
 ---
