@@ -22,6 +22,10 @@ Dengan latar belakang di bidang Matematika, saya memiliki ketertarikan dalam men
 **Deskripsi:** Proyek ini bertujuan untuk mengklasifikasikan penyakit maag berdasarkan gejala yang dialami pasien menggunakan metode **Decision Tree** dan **K-Nearest Neighbor**. Dengan model ini, sistem dapat memberikan prediksi awal yang membantu tenaga medis dalam proses diagnosis dan pengambilan keputusan klinis. Kemudian, pada proyek ini juga bertujuan untuk mengelompokkan daerah pertanian padi di Provinsi Lampung berdasarkan faktor-faktor seperti luas lahan, produksi padi menggunakan metode **K-Means Clustering**. Analisis ini membantu dalam memahami pola pertanian dan mendukung pengambilan keputusan untuk peningkatan hasil produksi.  
 [Lihat Proyek](https://github.com/anisafitriani1122/Proyek-Tugas-Besar_Pembelajaran-Mesin)
 
+### **Prediksi Curah Hujan**
+**Deskripsi:** Proyek ini bertujuan untuk memprediksi curah hujan di Kota Siantan menggunakan model Seasonal Autoregressive Integrated Moving Average (SARIMA). Model ini digunakan untuk menganalisis data historis curah hujan dan mengidentifikasi pola musiman serta tren dalam data, sehingga dapat digunakan untuk estimasi curah hujan di masa mendatang.
+[Lihat Proyek]()
+
 ---
 
 ## Teknologi yang Dikuasai
