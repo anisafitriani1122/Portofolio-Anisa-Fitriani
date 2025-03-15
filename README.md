@@ -24,7 +24,7 @@ Dengan latar belakang di bidang Matematika, saya memiliki ketertarikan dalam men
 
 ### **Prediksi Curah Hujan**
 **Deskripsi:** Proyek ini bertujuan untuk memprediksi curah hujan di Kota Siantan menggunakan model Seasonal Autoregressive Integrated Moving Average (SARIMA). Model ini digunakan untuk menganalisis data historis curah hujan dan mengidentifikasi pola musiman serta tren dalam data, sehingga dapat digunakan untuk estimasi curah hujan di masa mendatang.
-[Lihat Proyek]()
+[Lihat Proyek](https://github.com/anisafitriani1122/Tugas-Besar_Analisis-Deret-Waktu)
 
 ---
 
