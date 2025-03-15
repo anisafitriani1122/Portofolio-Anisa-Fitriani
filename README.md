@@ -16,7 +16,7 @@ Dengan latar belakang di bidang Matematika, saya memiliki ketertarikan dalam men
 
 ### **Pemetaan Produktivitas Perkebunan Nanas**
 **Deskripsi:** Menggunakan **K-Means Clustering** untuk memahami distribusi produktivitas di PT Great Giant Pineapple guna mengoptimalkan pengelolaan wilayah perkebunan.  
-[Lihat Proyek](https://github.com/username/proyek-nanas)
+[Lihat Proyek](https://github.com/anisafitriani1122/Proyek-Kerja-Praktik)
 
 ### **Klasifikasi Penyakit Maag dan Klasterisasi Daerah Pertanian Padi di Lampung**
 **Deskripsi:** Proyek ini bertujuan untuk mengklasifikasikan penyakit maag berdasarkan gejala yang dialami pasien menggunakan metode **Decision Tree** dan **K-Nearest Neighbor**. Dengan model ini, sistem dapat memberikan prediksi awal yang membantu tenaga medis dalam proses diagnosis dan pengambilan keputusan klinis. Kemudian, pada proyek ini juga bertujuan untuk mengelompokkan daerah pertanian padi di Provinsi Lampung berdasarkan faktor-faktor seperti luas lahan, produksi padi menggunakan metode **K-Means Clustering**. Analisis ini membantu dalam memahami pola pertanian dan mendukung pengambilan keputusan untuk peningkatan hasil produksi.  
